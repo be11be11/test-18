@@ -8,7 +8,7 @@ div.父 {border:2px solid lime; width: 70%; height: 300px; background-color: rgb
 
 div.子1 {border:2px solid orange; width: 25%; height: 150px; background-color: rgba(100, 250, 0, 0.2); margin-top: 50px; margin-left: -50px; }
 
-div.子2 {border:2px solid aqua; width: 25%; height: 150px; background-color: rgba(200, 0, 50, 0.2); margin-top: -150px; margin-left: 100px; }
+div.子2 {border:2px solid aqua; width: 25%; height: 150px; background-color: rgba(200, 0, 50, 0.2); margin-top: -250px; margin-left: 100px; }
 
 div.子3 {border:2px solid red; width: 25%; height: 150px; background-color: rgba(100, 250, 0, 0.2); }
 
